@@ -1,0 +1,22 @@
+{
+  "name": "natours-frontend",
+  "version": "1.0.0",
+  "description": "learning css with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JibranAdvany/natours_learn.git"
+  },
+  "author": "Jibran Advani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JibranAdvany/natours_learn/issues"
+  },
+  "homepage": "https://github.com/JibranAdvany/natours_learn#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
